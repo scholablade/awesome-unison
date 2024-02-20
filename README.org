@@ -4,6 +4,6 @@ A list of Unison related links, libraries, documentation and more.
 * Talks
 [[https://www.youtube.com/watch?v=gCWtkvDQ2ZIa][Strange loop]], Unison introduction by Paul Chiusano.
 * Learn
-[[https:https://www.unison-lang.org/docs/][Official documentation]], language fundementals and more.
+[[https:unison-lang.org/docs][Official documentation]], language fundementals and more.
 
 
