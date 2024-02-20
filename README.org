@@ -5,7 +5,7 @@ A list of Unison related links, libraries, documentation and more.
 * Talks
 [[https://www.youtube.com/watch?v=gCWtkvDQ2ZIa][Strange loop]], Unison introduction by Paul Chiusano.
 
-[[https://www.youtube.com/playlist?list=PLQ0IlHfOk1GgbXSZAjOOls9PnrO4Dpsbb][Unison Forall], all the talks from the Unison Forall 2022 conference.
+[[https://www.youtube.com/playlist?list=PLQ0IlHfOk1GgbXSZAjOOls9PnrO4Dpsbb][Unison Forall]], all the talks from the Unison Forall 2022 conference.
 
 * Learn
 
