@@ -4,15 +4,17 @@ A list of Unison related links, libraries, documentation and more.
 
 * Talks
 [[https://www.youtube.com/watch?v=gCWtkvDQ2ZIa][Strange loop]], Unison introduction by Paul Chiusano.
-
 [[https://www.youtube.com/playlist?list=PLQ0IlHfOk1GgbXSZAjOOls9PnrO4Dpsbb][Unison Forall]], all the talks from the Unison Forall 2022 conference.
 
 * Learn
-
 [[https://www.unison-lang.org/docs/][Official documentation]], language fundementals and more.
 
 * Community & Ecosystem
-
 [[https://unison-lang.org/discord][Official Unison Discord]], Unison Discord
 
 [[https://share.unison-lang.org/][Official ecosystem hub]], code hosting, version control, libraries, and collaboration
+* Tooling & Libraries
+** Basics
+[[https:unison-lang.org/docs/quickstart/][Unison & UCM]], download Unison and the Unison codebase manager on your system.
+** Distributed Computing
+[[https:share.unison-lang.org/@unison/distributed][distributed]], A library for distributed computing on Unison.
