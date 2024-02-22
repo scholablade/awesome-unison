@@ -15,6 +15,6 @@ A list of Unison related links, libraries, documentation and more.
 [[https://share.unison-lang.org/][Official ecosystem hub]], code hosting, version control, libraries, and collaboration
 * Tooling & Libraries
 ** Basics
-[[https:unison-lang.org/docs/quickstart/][Unison & UCM]], download Unison and the Unison codebase manager on your system.
+[[https://unison-lang.org/docs/quickstart/][Unison & UCM]], download Unison and the Unison codebase manager on your system.
 ** Distributed Computing
-[[https:share.unison-lang.org/@unison/distributed][distributed]], A library for distributed computing on Unison.
+[[https://share.unison-lang.org/@unison/distributed][distributed]], A library for distributed computing on Unison.
